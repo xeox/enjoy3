@@ -4,8 +4,7 @@ public class enjoy3 {
 
 	public static void main(String[] args) {
 		
-		System.out.println("I think the laundry would dry well"
-				+ "because the weather is good today.");
+		System.out.println("브런치 추가 연습");
 	}
 
 }
